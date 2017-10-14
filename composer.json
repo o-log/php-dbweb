@@ -1,0 +1,11 @@
+{
+  "name": "o-log/php-dbweb",
+  "description": "Web migrator",
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-0": {
+      "OLOG": ""
+    }
+  }
+}
